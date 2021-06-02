@@ -1,9 +1,9 @@
 # Assignment1-PJP
 The commands for the various tasks will be tracked here.
 
-The following commands were typed to finish the first assignment.
- 501  cd Desktop/Assignment1-PJP/
-  502  git pull 
+The following commands were typed to finish the first assignment.<br>
+  501  cd Desktop/Assignment1-PJP/
+  502  git pull /n
   503  git checkout -b dev 
   504  git branch -d dev 
   505  git branch -a 
